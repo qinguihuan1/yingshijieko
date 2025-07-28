@@ -93,20 +93,6 @@
             "ext": "https://www.wogg.one/"
         },
         {
-            "key": "潮流",
-            "name": "🏜┃潮流┃",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "ext": "http://v.rbotv.cn"
-        },
-        {
-            "key": "梦回",
-            "name": "🏈┃梦回┃",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "ext": "http://v.lkuys.cn"
-        },
-        {
             "key": "星辉",
             "name": "🦢┃星辉┃",
             "type": 3,
@@ -147,30 +133,6 @@
                 "dataKey": "xasdasdqwertyuio",
                 "siteApi": "get",
                 "version": "304"
-            }
-        },
-        {
-            "key": "再来",
-            "name": "✌️┃再来┃",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/kan.txt",
-                "dataKey": "2268331221bobobo",
-                "siteApi": "get",
-                "version": "107"
-            }
-        },
-        {
-            "key": "一碗",
-            "name": "🥣┃一碗┃",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://bind.315999.xyz/89.txt",
-                "dataKey": "#getapp@TMD@2025",
-                "siteApi": "get",
-                "version": "102"
             }
         },
         {
@@ -219,18 +181,6 @@
                 "dataKey": "0fe3b5781782c621",
                 "siteApi": "get",
                 "version": "203"
-            }
-        },
-        {
-            "key": "小丑",
-            "name": "🤡┃小丑┃",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://172.247.192.138:18520",
-                "dataKey": "SuNlEkOLAoWJj1Oe",
-                "siteApi": "qiji",
-                "version": ""
             }
         },
         {
