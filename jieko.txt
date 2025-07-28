@@ -17,64 +17,6 @@
             "searchable": 0
         },
         {
-            "key": "csp_FeiMaoUC",
-            "name": "⚡┃闪电┃优汐",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://1.95.79.193/"
-                ],
-                "url_key": "FeiMaoUC"
-            }
-        },
-        {
-            "key": "csp_Duopan",
-            "name": "🖍︎┃蜡笔┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "https://feimao666.fun",
-                    "http://feimao888.fun",
-                    "http://feimaoai.site",
-                    "http://www.labi88.sbs",
-                    "http://fmao.site",
-                    "http://fmao.shop",
-                    "http://xiaocge.fun"
-                ],
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                },
-                "url_key": "Duopan2"
-            }
-        },
-        {
-            "key": "csp_Netfixtv",
-            "name": "💌┃️至臻┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://xiaomi666.fun",
-                    "https://xiaomiai.site",
-                    "https://mihdr.top",
-                    "https://www.mihdr.top",
-                    "http://www.miqk.cc",
-                    "https://www.zhizhenpan.fun"
-                ],
-                "url_key": "Netfixtv2",
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                }
-            }
-        },
-        {
             "key": "csp_Panda_玩偶哥哥",
             "name": "👲┃玩偶┃影视",
             "api": "csp_Wogg",
@@ -102,18 +44,6 @@
                 "dataKey": "#getapp@TMD@2025",
                 "siteApi": "get",
                 "version": "201"
-            }
-        },
-        {
-            "key": "干饭",
-            "name": "🍚┃干饭┃",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://omofun.lol/coffee.txt",
-                "dataKey": "qwertyuiopqwertm",
-                "siteApi": "qiji",
-                "version": "301"
             }
         },
         {
@@ -321,21 +251,6 @@
             "name": "📺┃360┃",
             "type": 3,
             "api": "csp_SP360"
-        },
-        {
-            "key": "csp_Bili",
-            "name": "🅱┃️哔哩┃",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-            "ext": {
-                "json": "http://bili.json",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            }
         },
         {
             "key": "csp_Dm84",
