@@ -9,13 +9,6 @@
     "logo": "http://panda/0262.png",
     "sites": [
         {
-            "key": "豆瓣",
-            "name": "🐼",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
-        {
             "key": "豆瓣预告",
             "name": "🐼┃豆瓣┃",
             "type": 3,
