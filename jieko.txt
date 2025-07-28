@@ -9,6 +9,13 @@
     "logo": "http://panda/0262.png",
     "sites": [
         {
+            "key": "豆瓣",
+            "name": "🐼┃肥猫",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+        {
             "key": "豆瓣预告",
             "name": "🐼┃豆瓣┃",
             "type": 3,
@@ -143,14 +150,6 @@
             "name": "🥝┃奇优┃影视",
             "type": 3,
             "api": "csp_Qiyou"
-        },
-        {
-            "key": "荐片",
-            "name": "🎬┃荐片┃影视",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": "2"
-            
         },
         {
             "key": "csp_Quanwk",
