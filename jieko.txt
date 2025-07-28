@@ -387,15 +387,6 @@
                 "type": "list"
             }
         },
-        {
-            "key": "push_agent",
-            "name": "肥猫宝贝",
-            "type": 3,
-            "api": "csp_Push",
-            "playerType": "1",
-            "searchable": 0,
-            "ext": ".json/txt/ken.txt"
-        }
     ],
     "parses": [
         {
